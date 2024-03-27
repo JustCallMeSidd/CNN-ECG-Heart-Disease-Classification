@@ -30,4 +30,4 @@ Electrocardiogram (ECG) signals are essential in diagnosing various heart condit
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/cnn-ecg-heart-disease-classification.git
+git clone https://github.com/yourusername/cnn-ecg-heart-disease-classification.git](https://github.com/JustCallMeSidd/CNN-ECG-Heart-Disease-Classification/tree/main)https://github.com/JustCallMeSidd/CNN-ECG-Heart-Disease-Classification/tree/main
